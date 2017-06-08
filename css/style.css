@@ -1,0 +1,39 @@
+.body{}
+
+.a{
+	background: #4AACC5;
+	height: 200px;
+	border-radius: 8px;
+	margin: 5px;
+}
+
+.b{
+	background: #F79647;
+	height: 200px;
+	border-radius: 8px;
+	margin: 5px;
+}
+
+.c{
+	background: #9CBA56;
+	height: 200px;
+	border-radius: 8px;
+	margin: 5px;	
+}
+
+h4{
+	color:orange;
+	font-size: 25px;
+	padding-left: 8px;
+}
+
+h2{
+	color: #000;
+	text-transform: capitalize;
+	text-align: center;
+	padding: 15px;
+}
+
+.main-col{
+	background:#e4d7d980;;
+}
